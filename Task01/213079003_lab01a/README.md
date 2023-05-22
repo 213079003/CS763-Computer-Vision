@@ -8,11 +8,11 @@ This lab involves the setup and ground rules.
 
 3. What resources I used on the Internet:  (List of URLs)
 
-a. https://www.youtube.com/watch?v=HK-fPBg-NOk
+- https://www.youtube.com/watch?v=HK-fPBg-NOk
 
-b. https://pypi.org/project/opencv-python/3.4.2.16/
+- https://pypi.org/project/opencv-python/3.4.2.16/
 
-c. https://stackoverflow.com/questions/2032403/how-to-create-full-compressed-tar-file-using-python
+- https://stackoverflow.com/questions/2032403/how-to-create-full-compressed-tar-file-using-python
 
 4. Honor Code
 I pledge on my honour (Bhagwat Gita) that I have not given or received any unauthorized 
