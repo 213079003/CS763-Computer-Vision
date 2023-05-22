@@ -28,7 +28,7 @@
 4. Honor Code
 I pledge on my honour (Bhagwat Gita) that I have not given or received any unauthorized assistance on this assignment or any previous task.  
 
-Signed by:  <Akella Venkata Surya Srinidhi>
+Signed by:  Srinidhi
 
 5. Since this is an individual assignment. I am the only contributor.
 Questions | Me  | Roll Number
