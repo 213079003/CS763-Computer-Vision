@@ -6,29 +6,28 @@
 
 3. What resources I used on the Internet:  (List of URLs)
 
-  a. https://docs.python.org/3/howto/argparse.html
+	  a. https://docs.python.org/3/howto/argparse.html
 
-  b. https://numpy.org/doc/stable/user/quickstart.html
+	  b. https://numpy.org/doc/stable/user/quickstart.html
 
-  c. https://numpy.org/doc/stable/reference/routines.array-manipulation.html
+	  c. https://numpy.org/doc/stable/reference/routines.array-manipulation.html
 
-  d. https://www.javatpoint.com/k-means-clustering-algorithm-in-machine-learning
+	  d. https://www.javatpoint.com/k-means-clustering-algorithm-in-machine-learning
 
-  e. https://medium.com/machine-learning-algorithms-from-scratch/k-means-clustering-from-scratch-in-python-1675d38eee42
+	  e. https://medium.com/machine-learning-algorithms-from-scratch/k-means-clustering-from-scratch-in-python-1675d38eee42
 
-  f. https://docs.opencv.org/3.4.2/dc/d2e/tutorial_py_image_display.html
+	  f. https://docs.opencv.org/3.4.2/dc/d2e/tutorial_py_image_display.html
 
-  g. https://docs.opencv.org/3.4.2/dd/d43/tutorial_py_video_display.html
+	  g. https://docs.opencv.org/3.4.2/dd/d43/tutorial_py_video_display.html
 
-  h. https://stackoverflow.com/questions/56270389/how-to-wait-for-two-different-keys-using-cv2-waitkey
+	  h. https://stackoverflow.com/questions/56270389/how-to-wait-for-two-different-keys-using-cv2-waitkey
 
-  i. https://matplotlib.org/stable/tutorials/introductory/pyplot.html
+	  i. https://matplotlib.org/stable/tutorials/introductory/pyplot.html
 
 
 4. Honor Code
 I pledge on my honour (Bhagwat Gita) that I have not given or received any unauthorized assistance on this assignment or any previous task.  
-
-Signed by:  Srinidhi
+	Signed by:  Srinidhi
 
 5. Since this is an individual assignment. I am the only contributor.
 Questions | Me  | Roll Number
@@ -44,7 +43,7 @@ c. OpenCV | 100 | 213079003
         ```
         python p_norm.py 2.3 21 4 1 --p 3
         ```
-     - The following instruction should be used if p=2 is required
+     The following instruction should be used if p=2 is required
       ```
 	    python p_norm.py 2.3 21 4 1
       ```
@@ -62,7 +61,7 @@ c. OpenCV | 100 | 213079003
       ```
 	    python kmeans.py
       ```
-    - This python file forms k-clusters and displays the input sample points and 
+    This python file forms k-clusters and displays the input sample points and 
 	 output image having k-clusters.
 --------------------
   4) Image Conversion
