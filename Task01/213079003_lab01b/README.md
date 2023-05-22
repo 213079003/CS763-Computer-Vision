@@ -30,13 +30,13 @@ I pledge on my honour (Bhagwat Gita) that I have not given or received any unaut
 	Signed by:  Srinidhi
 
 5. Since this is an individual assignment. I am the only contributor.
-Questions | Me  | Roll Number
+		Questions | Me  | Roll Number
 
-a. Python | 100 | 213079003
+		a. Python | 100 | 213079003
 
-b. Numpy  | 100 | 213079003
+		b. Numpy  | 100 | 213079003
 
-c. OpenCV | 100 | 213079003
+		c. OpenCV | 100 | 213079003
 
  Instructions to run:
 
