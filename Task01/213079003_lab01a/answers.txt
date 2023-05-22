@@ -1,0 +1,32 @@
+===================================== CS764 Lab 01a =====================================
+
+This file contains the answers to the questions posed.
+
+
+1)  2022-01-18	15:00:00	18:00:00
+    2022-01-19	15:00:00	18:00:00 
+
+2) The virtual environment I have used is SpyderIDE. This is because I am comfortable 
+   with Jupyter Notebook and SpyderIDE of anaconda distributions and mostly work in this 
+   environment.
+
+3) Deactivating a virtual environment is followed by a simple command "deactivate" in 
+   the powershell. After activating an environment, the name of the environment appears 
+   as the prefix of the shell prompt. After giving the command "deactivate", the 
+   environment name disappears and no longer acts a prefix. The shell prompt reverts 
+   back to the initial path.
+
+4) I have installed opencv --version 4.5.5.62
+
+5) The total time taken for installing python, creation of virtual environment, 
+   installing the required libraries is 30 min.
+
+6) The readme.txt file is often the first file that the users read. It is a text file 
+   that contains information for the user about the project, along with instructions, 
+   help, or details associated with it.
+   My understanding of the contribution section is, for group tasks, each individual of
+   the group submits a readme file which contains what he/she contributed to the tasks
+   i.e describing what part of work is done by the individual. He/she must specify all 
+   the tasks performed by him/her that led to completion of the tasks. The individual 
+   will be graded according to the knowledge gained by him/her and contribution part.
+   
