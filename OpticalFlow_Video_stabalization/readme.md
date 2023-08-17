@@ -5,6 +5,6 @@ Then we stabilized videos with independent moving object by first segmenting out
 
 The sample output can be seen in this repository. The effect of warping the homography of unstabilized video frames is also shown in the following demos.
 
-![](https://github.com/NiharGupte/OpticalFlow/blob/master/Demo_1.gif)
+![](https://github.com/213079003/CS763-Computer-Vision/blob/main/OpticalFlow_Video_stabalization/Demo_1.gif)
 
-![](https://github.com/NiharGupte/OpticalFlow/blob/master/Demo_2.gif)
+![](https://github.com/213079003/CS763-Computer-Vision/blob/main/OpticalFlow_Video_stabalization/Demo_2.gif)
